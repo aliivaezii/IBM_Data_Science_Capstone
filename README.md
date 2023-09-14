@@ -1,1 +1,2 @@
-# IBM_Data_Science_Capstone
+# applied-data-science-capstone
+Coursera/IBM Applied Data Science Capstone
